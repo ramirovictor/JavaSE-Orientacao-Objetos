@@ -7,6 +7,9 @@
 > Status: Done 
 > Grade: 10 max
 
+#### code in portuguese
+
+
 ## Technologies and Tools
 <table>
   <tr> 
