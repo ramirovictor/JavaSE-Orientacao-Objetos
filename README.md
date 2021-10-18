@@ -1,13 +1,13 @@
 ![unnamed](https://user-images.githubusercontent.com/37045332/125005990-75d85d80-e033-11eb-81e7-7835a9703b76.png)
 
 
-## Projeto Java SE -Orientação a Objetos
-### Projeto didático no Instituto Federal de Goiás
-#### Construir uma aplicação que ao ser executada gere uma página html no conssole utiliznado todos os conceitos de Orientação Objetos aprendidos no curso. (Herança, Polimorfismo, Interface, Construtores, toString, Sobrecarga, Sobrescrita, Excpetions, Classe abstrata, Anotações, ... )
-> Status: Concluído 
-> Nota: 10 máx
+## Java SE Project - Object Orientation
+### Didactic project used in Federal Institute of Goiás
+#### Build an application that, when executed, generates an html page in the console using all the Object Orientation concepts learned in the course. (Inheritance, Polymorphism, Interface, Constructors, toString, Overload, Overwrite, Exceptions, Abstract class, Annotations, ... )
+> Status: Done 
+> Grade: 10 max
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 <table>
   <tr> 
     <td>Java</td>
